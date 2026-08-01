@@ -1,4 +1,4 @@
 {
-  "Version": "1.0 Luna",
-  "Download": "https://cdn.discordapp.com/attachments/1529574978683539549/1532889712816029816/Pearl-Installer-0.2.0-arm64.dmg?ex=6a6e7e4b&is=6a6d2ccb&hm=16490fec630e71359b505793adfe874fa2d08ef404895e3c47c6753182881061&"
+  "Version": "1.1 Luna",
+  "Download": "https://cdn.discordapp.com/attachments/1525056842953134262/1533090762823176282/Pearl_Installer.dmg?ex=6a6f3989&is=6a6de809&hm=2e5ecf638316b4a5fe2a00e25aa5a233626b3e2ac874ad5f05a695b485fab0f2&"
 }
