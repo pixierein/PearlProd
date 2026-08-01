@@ -1,1 +1,4 @@
-1.0
+{
+  "Version": "1.0 Luna",
+  "Download": "https://cdn.discordapp.com/attachments/1529574978683539549/1532889712816029816/Pearl-Installer-0.2.0-arm64.dmg?ex=6a6e7e4b&is=6a6d2ccb&hm=16490fec630e71359b505793adfe874fa2d08ef404895e3c47c6753182881061&"
+}
