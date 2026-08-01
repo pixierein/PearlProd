@@ -1,4 +1,4 @@
 {
-  "Version": "1.1 Luna",
-  "Download": "https://cdn.discordapp.com/attachments/1525056842953134262/1533090762823176282/Pearl_Installer.dmg?ex=6a6f3989&is=6a6de809&hm=2e5ecf638316b4a5fe2a00e25aa5a233626b3e2ac874ad5f05a695b485fab0f2&"
+  "Version": "1.2 Sol",
+  "Download": "TBA"
 }
