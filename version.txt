@@ -1,4 +1,4 @@
 {
-  "Version": "1.2 Sol",
+  "Version": "1.1 Sol",
   "Download": "TBA"
 }
